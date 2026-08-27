@@ -29,8 +29,6 @@ soroban/target/
 **/*.wasm
 
 # env and secrets
-.env
-.env.*
 frontend/.env
 frontend/.env.*
 backend/.env
@@ -53,3 +51,7 @@ yarn-error.log*
 
 # local git backups
 .git-frontend-backup/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
